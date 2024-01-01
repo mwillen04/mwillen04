@@ -4,24 +4,28 @@
 </div>
 -->
 
-## Hi! Welcome to my profile.
+<img src="https://imgur.com/EEZ8ZOe.png" />
+
+---
 #### ✨ About Me:
+- 📍 Who am I?
+  - Computer Science Major at **Yale University** 🏫
+  - Hometown: **Philadelphia, PA** 🏢
+  - Sound Designer & Engineer 🔊, Copyeditor 📰, and Dancer 🤸🏽‍♂️
+  - Soccer ⚽️ & Geography Nerd 🌎
+
 - 🔭 I’m currently working on ...
+  - **<a href="https://github.com/yale-cpsc-419-fa23/csofficehours" target="_blank">csofficehours</a>**
+  - **<a href="https://github.com/mwillen04/ydn-stylebook" target="_blank">YDN Stylebook</a>**
+ 
 - 🌱 I’m currently learning ...
+  - Full Stack Programming/Web Development
+  - React & JavaScript
+
 - 😄 Pronouns: he/him
 
 ---
-#### 💻 My Coding Tools:
-
-<!-- <div id="badges">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</div> -->
+#### ✏️ My Coding Tools:
 
 <div id="badges">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30" />&nbsp;
@@ -35,8 +39,11 @@
 </div>
 
 ---
-#### 🔧 Current Projects:
+#### ⚙️ Current Projects:
 
+**csofficehours:** Web app designed to improve on the current office hours website used by Yale University's Department of Computer Science. At the moment, the repository is private as the application was initially created as a course project; however, we plan to continue beyond the course in the coming months and eventually expand beyond the CS Department.
+
+**YDN Stylebook:** Personal project completely revamping the copy stylebook of the Yale Daily News. The current stylebook lives on an unwieldy, 85-page Google Document that is slow to load, slow to search, and overall difficult to use. I'm shifting the stylebook into a database and building a web application that will incorporate functionality for searching and editing the stylebook, among other things. At the same time, I'm updating the content of the stylebook, which is outdated and hasn't been properly updated since the early 2000s.
 
 ---
 #### 📫 Contact Me!
