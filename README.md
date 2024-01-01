@@ -32,6 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="30" height="30" />&nbsp;
 </div>
 
 ---
