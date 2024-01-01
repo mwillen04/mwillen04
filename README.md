@@ -42,7 +42,7 @@
 #### 📫 Contact Me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-willen-b3781a201/)
-[![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michael.willen@yale.edu)
+[![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:michael.willen@yale.edu)
 
 ---
 
