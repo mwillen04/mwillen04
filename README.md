@@ -4,7 +4,7 @@
 </div>
 -->
 
-<img src="https://imgur.com/EEZ8ZOe.png" />
+<img src="https://i.imgur.com/s8LUZDx.png" />
 
 ---
 ### ✨ About Me:
