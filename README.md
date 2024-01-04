@@ -48,9 +48,9 @@
 ---
 ### 📫 Contact Me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-willen-b3781a201/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michaelwillen)
 [![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:michael.willen@yale.edu)
-
+<!-- OLD: https://www.linkedin.com/in/michael-willen-b3781a201/ -->
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwillen04&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
