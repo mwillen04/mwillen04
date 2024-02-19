@@ -10,6 +10,7 @@
 ### ✨ About Me:
 - 📍 Who am I?
   - Computer Science Major at **Yale University** 🏫
+  - Statistics & Data Science Certificate 📊
   - Hometown: **Philadelphia, PA** 🏢
   - Sound Designer & Engineer 🔊, Copyeditor 📰, and Dancer 🤸🏽‍♂️
   - Soccer ⚽️ & Geography Nerd 🌎
