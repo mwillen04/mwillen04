@@ -9,8 +9,8 @@
 ---
 ### ✨ About Me:
 - 📍 Who am I?
-  - Computer Science Major at **Yale University** 🏫
-  - Statistics & Data Science Certificate 📊
+  - Statistics and Data Science Major at **Yale University** 🏫
+  - Programming Certificate 📊
   - Hometown: **Philadelphia, PA** 🏢
   - Sound Designer & Engineer 🔊, Copyeditor 📰, and Dancer 🤸🏽‍♂️
   - Soccer ⚽️ & Geography Nerd 🌎
@@ -43,8 +43,6 @@
 ### ⚙️ Current Projects:
 
 **YDN Stylebook:** Personal project completely revamping the copy stylebook of the Yale Daily News. The current stylebook lives on an unwieldy, 85-page Google Document that is slow to load, slow to search, and overall difficult to use. I'm shifting the stylebook into a database and building a web application around it that will incorporate better functionality for searching and editing the stylebook, among other things. At the same time, I'm updating the content of the stylebook, which is outdated and hasn't been properly updated since the early 2000s.
-
-**csofficehours:** Web app designed to improve on the current office hours website used by Yale University's Department of Computer Science. At the moment, the repository is private as the application was initially created as a course project.
 
 ---
 ### 📫 Contact Me!
