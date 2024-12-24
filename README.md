@@ -40,9 +40,13 @@
 </div>
 
 ---
-### ⚙️ Current Projects:
+### ⚙️ Projects:
 
-**YDN Stylebook:** Personal project completely revamping the copy stylebook of the Yale Daily News. The current stylebook lives on an unwieldy, 85-page Google Document that is slow to load, slow to search, and overall difficult to use. I'm shifting the stylebook into a database and building a web application around it that will incorporate better functionality for searching and editing the stylebook, among other things. At the same time, I'm updating the content of the stylebook, which is outdated and hasn't been properly updated since the early 2000s.
+<ins>**YDN Stylebook:**</ins> Personal project completely revamping the copy stylebook of the Yale Daily News. The current stylebook lives on an unwieldy, 85-page Google Document that is slow to load, slow to search, and overall difficult to use. I'm shifting the stylebook into a database and building a web application around it that will incorporate better functionality for searching and editing the stylebook, among other things. At the same time, I'm updating the content of the stylebook, which is outdated and hasn't been properly updated since the early 2000s. Using React, Flask, Python, SQL, and JavaScript.
+
+<ins>**csofficehours:**</ins> Collaborated with a team of six students and built a web application designed to improve the current office hours website used by Yale’s Computer Science Department, won 3rd place in web development class. Using React, Flask, Python, SQL, and JavaScript.
+
+<ins>**Tetris:**</ins> Engineered a 700-line Tetris game from scratch using Java and Java’s AWT graphics package.
 
 ---
 ### 📫 Contact Me!
